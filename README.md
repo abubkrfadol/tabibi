@@ -1,2 +1,2 @@
 # tabibi
-online boobing doctor
+online booking doctor
